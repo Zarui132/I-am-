@@ -1,0 +1,16 @@
+#header  {
+text-align: center;
+    background: #f40000;
+    color: #fff;
+    padding: 15px 0;
+}
+
+h1 {
+    margin: 0;
+    font-family: 'Roboto', sans-serif
+
+}
+
+#content  {
+ text-align: center;
+}
